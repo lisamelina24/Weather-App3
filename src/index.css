@@ -45,7 +45,7 @@ a {
 }
 
 main {
-  padding: 30px 0;
+  padding: 20px 0;
   margin-left: 10px;
 }
 
@@ -96,7 +96,7 @@ main {
   display: flex;
   justify-content: space-around;
   color: #ea6bff;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .weather-forecast-date {
@@ -131,7 +131,7 @@ main {
 
 footer {
   border-top: 1px solid #f9f7fe;
-  padding: 30px 0 0 0;
+  padding: 20px 0 0 0;
   text-align: center;
   font-size: 13px;
   color: rgba(0, 0, 0, 0.6);
